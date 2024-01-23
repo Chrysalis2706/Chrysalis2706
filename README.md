@@ -1,6 +1,6 @@
 ## Hi! This is Parth
 
-### My slogan -> I code, therefore, I am!
+### My slogan => I code, therefore, I am!
 
 -  I’m interested in Web Development, Problem Solving using DSA, UI/UX Design+Development.
 -  Programming languages : Java | JavaScript
