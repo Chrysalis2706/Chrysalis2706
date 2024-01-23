@@ -4,14 +4,13 @@
 
 -  I’m interested in Web Development, Problem Solving using DSA, UI/UX Design+Development.
 -  Programming languages : Java | JavaScript
--  Frameworks : React js | Node js | Express js | Bulma css | Bootstrap css
+-  Frameworks : React js | Node js
 -  Design Tools : Figma | AdobeXD | Adobe Illustrator | Adobe Photoshop
--  Databases : MySQL + Workbench | MongoDB (NoSql)
 -  My hobbies include - Illustrations, Cricket and Brain storming
--  mail :- parthdwivedy2706@gmail.com
+-  mail :- dwivedi.parth2706@gmail.com
 -  contact no. :- +91-6260859893
 
-## Get in Touch
+## My Profiles
 ✅  [LinkedIn](www.linkedin.com/in/parthdwivedi2706) <br>
 ✅  [Leetcode](https://leetcode.com/parthdwivedy2706/)
 
